@@ -19,6 +19,6 @@ The equations of motion for the projectile were derived from first principles. T
 
 Here's the detailed derivation:
 
-![Projectile Motion Derivation](projectile_motion_derivation.jpg)
+![Projectile Motion Derivation](projectile_motion_deriviation.jpg)
 
 These equations describe the horizontal and vertical motion of a projecile under the influence of gravity, neglecting air resistance.
